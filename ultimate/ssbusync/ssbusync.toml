@@ -1,0 +1,21 @@
+[SsbuSync.Default]
+profile_version = 1.0
+disable_vsync = true
+disable_pacer = false
+slow_pacer_bias = false
+enable_triple_buffer = true
+allow_buffer_swap = false
+smooth_ffa = false
+online_only = true
+profiling = false
+
+[SsbuSync.HDR]
+profile_version = 1.0
+disable_vsync = true
+disable_pacer = false
+slow_pacer_bias = false
+enable_triple_buffer = true
+allow_buffer_swap = false
+smooth_ffa = false
+online_only = true
+profiling = false

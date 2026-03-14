@@ -1,0 +1,5 @@
+[SsbuSync]
+mods = [
+    "hdr",
+    "hdr-dev",
+]
