@@ -1,1 +1,3 @@
-This repo will not be maintained.
+Because you don't reward tantrums.
+
+Call it the InternetDog effect.
